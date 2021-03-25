@@ -1,0 +1,6 @@
+name: "my-report"
+navbar:
+  title: "My Report"
+  left:
+    - text: "Home"
+      href: index.html
